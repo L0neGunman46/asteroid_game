@@ -1,2 +1,4 @@
 __pycache__
-
+venv
+game_events.jsonl
+game_state.jsonl
